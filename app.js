@@ -64,7 +64,3 @@ app.post("/failure", function(req, res){
 app.listen(process.env.PORT || 3000, function(){
     console.log("Server is running on port 3000.");
 })
-
-
-// api key : fbad105adb3b783be28925c090dbbcfe-us9
-// list id : 9d7faafc9c
